@@ -31,7 +31,7 @@ The dataset measures 12 aspects of economic freedom, grouped into four broad pil
 
 ### Project ###
 
-The following project focuses on the analysis of the indicators previously examined. In particular, it is comprised of:
+The following project focuses on the exploratory analysis of the indicators previously examined. In particular, it is comprised of:
 - A data visualization part, in which different regions are compared based on different indicators, and the relationship between the variables are explored in the form of plots.
 - An outlier detection part, where some instances, corresponding to peculiar countries, are uncovered as outliers, examined and, in some cases, removed. In this step, the predictors are also trasnformed to a more normal distribution.
 - A Principal Component Analysis, which suggests through a biplot that the indicators Tax Burden, Government Spending and Fiscal Health can be set apart from the other indicators.
