@@ -36,4 +36,3 @@ The following project focuses on the analysis of the indicators previously exami
 - An outlier detection part, where some instances, corresponding to peculiar countries, are uncovered as outliers, examined and, in some cases, removed. In this step, the predictors are also trasnformed to a more normal distribution.
 - A Principal Component Analysis, which suggests through a biplot that the indicators Tax Burden, Government Spending and Fiscal Health can be set apart from the other indicators.
 - A cluster analysis, where variables are clustered through hierarchical methods
-- A multiclass classification part, to predict the variable Region based on quantitative predictors, and an exploration of the instances that are misclassified.
